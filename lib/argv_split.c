@@ -1,5 +1,5 @@
 /*
- * Helper function for splitting a string into an argv-like array.
+ * Helper function for splitting a string into an argv-like array.fdasf
  */
 
 #include <linux/kernel.h>
